@@ -6,7 +6,7 @@ const nextConfig = {
     loader: "akamai",
     path: ""
   },
-  basePath: "/nexjs-pages",
+  basePath: "/react-portfolio",
   assetPrefix: "/react-portfolio"
 }
 
