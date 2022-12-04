@@ -7,7 +7,7 @@ const nextConfig = {
     path: ""
   },
   basePath: "/nexjs-pages",
-  assetPrefix: "/nexjs-pages"
+  assetPrefix: "/react-portfolio"
 }
 
 module.exports = nextConfig

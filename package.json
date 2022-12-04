@@ -9,8 +9,8 @@
     "start": "next start",
     "lint": "next lint",
     "export": "next export",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "deploy": "gh-pages -d out",
+    "predeploy": "npm run export"
   },
   "dependencies": {
     "@types/node": "18.11.10",
